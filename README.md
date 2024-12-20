@@ -2,11 +2,16 @@
 <h3 align="center">Linux & DevOps Enthusiast | Automating Systems & Simplifying Solutions</h3>
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🔭 I’m currently working on **Developing automation solutions, optimizing Linux server management workflows, managing deployment servers, and enhancing SIEM tool integrations to improve infrastructure security and efficiency.**
-- 🌱 I’m currently learning **DevOps practices, automation techniques, and SIEM tool optimization.**
-- 💬 Ask me about **Linux admin, DevOps, automation, deployment servers, and SIEM tools.**
-- 📫 How to reach me **winsoheb@gmail.com**
-- 📄 Know about my experiences in **Linux system administration, automation, deployment server management, and SIEM tool integration. Skilled in optimizing infrastructure and security, with expertise in DevOps and automation using SaltStack.**
+- 🔭 I’m currently working on
+-  **Developing automation solutions, optimizing Linux server management, managing servers, and enhancing SIEM tool integrations to improve infrastructure security and efficiency.**
+- 🌱 I’m currently
+-  **DevOps practices, automation techniques, and SIEM tool optimization.**
+- 💬 Ask me about
+- **Linux, DevOps, automation, deployment, and SIEM tools.**
+- 📫 How to reach me,
+- **winsoheb@gmail.com**
+- 📄 Know about my experiences in
+- **Linux system administration, automation, server management, and SIEM tool integration. Skilled in optimizing infrastructure and security, with expertise in DevOps and automation using SaltStack.**
 - ⚡ Fun fact **I enjoy learning new technologies and sharing knowledge through my YouTube channel, helping others simplify IT operations and automation.**
 
 <h3 align="left">Connect with me:</h3>
