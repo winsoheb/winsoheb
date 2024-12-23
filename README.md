@@ -6,18 +6,6 @@
 
 
 
-- 🔭 I’m currently working on
--  **Developing automation solutions, optimizing Linux server management, managing servers, and enhancing SIEM tool integrations to improve infrastructure security and efficiency.**
-- 🌱 I’m currently
--  **DevOps practices, automation techniques, and SIEM tool optimization.**
-- 💬 Ask me about
-- **Linux, DevOps, automation, deployment, and SIEM tools.**
-- 📫 How to reach me,
-- **winsoheb@gmail.com**
-- 📄 Know about my experiences in
-- **Linux system administration, automation, server management, and SIEM tool integration. Skilled in optimizing infrastructure and security, with expertise in DevOps and automation using SaltStack.**
-- ⚡ Fun fact **I enjoy learning new technologies and sharing knowledge through my YouTube channel, helping others simplify IT operations and automation.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soheb" height="30" width="40" /></a>
